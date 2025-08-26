@@ -1,0 +1,7 @@
+order-microservices/
+│── services/
+│   ├── order_api/ (FastAPI service)
+│   ├── payment_api/ (Flask service)
+│── docker-compose.yml
+│── k8s-deployment.yaml
+│── README.md
